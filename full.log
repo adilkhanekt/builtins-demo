@@ -1,0 +1,5 @@
+DEBUG:__main__:Debug message
+INFO:__main__:Infromation about event
+WARNING:__main__:Warning message
+ERROR:__main__:Error message
+CRITICAL:__main__:Critical error
