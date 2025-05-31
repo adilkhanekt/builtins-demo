@@ -23,8 +23,6 @@ else:
     print("There is no `full.log`")
 
 
-
-
 log_dir = Path("log")
 log_dir.mkdir(exist_ok=True)
 print("`log` directory is there")
